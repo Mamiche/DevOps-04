@@ -18,7 +18,7 @@
 
 - ✅ Provisionnement d’un cluster Amazon EKS
 - ✅ Infrastructure as Code (IaC) avec Terraform
-- ✅ Déploiement et Service Kubernetes pour Metal Slug
+- ✅ Déploiement et Service Kubernetes pour le jeu 2048
 - ✅ Backend AWS S3 pour la gestion de l’état Terraform
 - ✅ Rôles et politiques IAM pour EKS et les nœuds de travail
 
